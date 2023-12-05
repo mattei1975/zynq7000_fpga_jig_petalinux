@@ -1,0 +1,7 @@
+PETALINUX_VER=2022.2
+VALIDATE_HW_CHKSUM=1
+HARDWARE_PATH=/home/parallels/zynq7000_projects/zynq7000_fpga_hw_jig/vivado_prj/main_design_wrapper.xsa
+HDF_EXT=xsa
+HARDWARE_CHECKSUM=2134abfee30cccac62dd691acb6d7a61
+YOCTO_SDK=85e32bd84b2647e640a2e565ef06077a
+RFSCONFIG_CHKSUM=1f7dbe0ba6be51016a9db03483a94db9
